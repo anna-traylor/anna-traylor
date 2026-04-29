@@ -1,4 +1,4 @@
-⭐️ Hi! Welcome to my Github!
+⭐️ Hello lovely people! Welcome to my Github!
 
 ⭐️ My [baby](https://js-queen-web.vercel.app) is live:
 
